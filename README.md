@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @JakeP212121
+- 👀 I’m interested in Programming
+- 🌱 I’m currently learning JQuery & Tkinter
+- 💞️ I’m looking to collaborate on Python
+- 📫 How to reach me 19jporritt@mket.org.uk
